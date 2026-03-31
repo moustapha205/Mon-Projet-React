@@ -1,4 +1,30 @@
+<<<<<<< Updated upstream
 # Mon Projet React
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+†# Mon Projet React
+>>>>>>> Stashed changes
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -8,7 +34,12 @@
 **[Voir le site en direct →](https://moustapha-app-react.netlify.app/)**
 
 ## 📖 À propos du projet
+<<<<<<< Updated upstream
 Application web moderne et responsive développée avec React.js. Ce projet démontre mes compétences en développement front-end, gestion de versions avec Git, et déploiement d'applications web sur des plateformes cloud.
+=======
+Application web moderne et responsive développée avec React.js. Ce projet démontre mes compétences en développement front-end, gestion de versions avec Git, et déploiement d'applications web sur 
+des plateformes cloud.
+>>>>>>> Stashed changes
 
 ## ✨ Fonctionnalités principales
 - Interface utilisateur moderne et intuitive
@@ -92,3 +123,11 @@ Merci à la communauté React et à tous les contributeurs open-source qui rende
 ---
 
 ⭐ **N'hésitez pas à mettre une étoile si vous aimez ce projet !**
+<<<<<<< Updated upstream
+=======
+
+
+
+# Mon-Projet-React
+# Mon-Projet-React
+>>>>>>> Stashed changes
